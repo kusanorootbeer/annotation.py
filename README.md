@@ -2,7 +2,7 @@
 
 hand annotation assistant
 
-## 目的
+## AIm
 
 Neural Network Console Chalenge https://nnc-challenge.com/
 のアノテーション作業をなんとか効率化させたくて作った
@@ -24,3 +24,4 @@ path 変数`data_dir_path`と`csv_path`を書き換えて
 ## Post Scripts
 
 作ったはいいけど，自己満足がすぎる
+折角プログラミング不要で訓練できるシステムなのに，これだとデータセット作成時にコードを読ませちゃうのでビミョウ感w
