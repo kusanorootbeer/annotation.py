@@ -7,6 +7,8 @@ hand annotation assistant
 Neural Network Console Chalenge https://nnc-challenge.com/
 のアノテーション作業をなんとか効率化させたくて作った
 
+`OpenCV`のちからを借りて，顔検出を行い，顔が検出された画像だけアノテーションすることにした
+
 ## How to
 
 path 変数`data_dir_path`と`csv_path`を書き換えて
@@ -24,4 +26,4 @@ path 変数`data_dir_path`と`csv_path`を書き換えて
 ## Post Scripts
 
 作ったはいいけど，自己満足がすぎる
-折角プログラミング不要で訓練できるシステムなのに，これだとデータセット作成時にコードを読ませちゃうのでビミョウ感w
+折角プログラミング不要で訓練できるシステムなのに，これだとデータセット作成時にコードを読ませちゃうのでビミョウ感 w
